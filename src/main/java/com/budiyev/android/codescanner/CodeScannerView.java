@@ -994,7 +994,7 @@ public final class CodeScannerView extends ViewGroup {
     }
 
     @NonNull
-    SurfaceView getPreviewView() {
+    public SurfaceView getPreviewView() {
         return mPreviewView;
     }
 
